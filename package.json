@@ -1,7 +1,7 @@
 {
-  "name": "trip-to-mars",
+  "name": "rehabmars",
   "version": "1.0.0",
-  "description": "",
+  "description": "npminstall tutorial",
   "main": "index.js",
   "dependencies": {
     "express": "^4.13.3",
@@ -15,5 +15,16 @@
     "test": "node test.js"
   },
   "author": "Joe Eames",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rehabescapi/helloMars.git"
+  },
+  "keywords": [
+    "woo"
+  ],
+  "bugs": {
+    "url": "https://github.com/Rehabescapi/helloMars/issues"
+  },
+  "homepage": "https://github.com/Rehabescapi/helloMars#readme"
 }
